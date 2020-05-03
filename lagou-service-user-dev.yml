@@ -1,10 +1,10 @@
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: 1
+    url: 
     username: 
     password: 
   jpa:
-    database: MySQL
+    database: MySQL-test
     show-sql: true
     hibernate:
       naming:
