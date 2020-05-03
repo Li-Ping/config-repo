@@ -4,7 +4,7 @@
     username: 
     password: 
   jpa:
-    database: MySQL
+    database: MySQL - 78
     show-sql: true
     hibernate:
       naming:
