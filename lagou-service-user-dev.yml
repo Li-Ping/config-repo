@@ -1,6 +1,6 @@
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: 
+    url: 1
     username: 
     password: 
   jpa:
