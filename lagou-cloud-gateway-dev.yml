@@ -1,2 +1,3 @@
-time: 3
-count: 10
+config:
+  time: 3
+  count: 10
